@@ -1,7 +1,7 @@
 ### Hi there! My name is Neila Dutra 👋
 
 - 🔭 I’m currently looking for a web developer position (front-end / back-end)
-- 🌱 I’m currently learning SOAP and REST
+- 🌱 Learning REACT
 - 📫 How to reach me: neilasasa@hotmail.com
 - 😄 Pronouns: she/her
 
