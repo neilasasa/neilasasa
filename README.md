@@ -1,7 +1,7 @@
 ### Hi there! My name is Neila Dutra 👋
 
 - 🔭 Junior Full-Stack Developer
-- 🌱 Studying REACT and Clean Code
+- 🌱 Studying REACT and Typescript
 - 📫 How to reach me: neilasasa@hotmail.com
 - 😄 Pronouns: she/her
 
