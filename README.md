@@ -17,5 +17,4 @@
   <img align="center" alt="neilasasa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="neilasasa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="right" alt="neilasasa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/911275663816785923/911276561230082078/5usfoa.gif?width=676&height=676">
-
 </div>
